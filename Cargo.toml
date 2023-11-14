@@ -3,6 +3,14 @@ name = "crc-32c"
 version = "0.1.0"
 edition = "2021"
 
+license = "Apache-2.0"
+description = "Comput CRC-32C using accelerated SIMD and fusion algorithm"
+homepage = "https://github.com/lizhanhui/crc-32c"
+documentation = "https://docs.rs/crc-32c"
+repository = "https://github.com/lizhanhui/crc-32c"
+readme = "README.md"
+keywords = ["CRC-32C", "SIMD", "fusion", "pclmulqdq", "three-way", "mm-crc32"]
+categories = ["algorithms", "development-tools", "mathematics"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
