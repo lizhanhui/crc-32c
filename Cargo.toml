@@ -9,7 +9,7 @@ homepage = "https://github.com/lizhanhui/crc-32c"
 documentation = "https://docs.rs/crc-32c"
 repository = "https://github.com/lizhanhui/crc-32c"
 readme = "README.md"
-keywords = ["CRC-32C", "SIMD", "fusion", "pclmulqdq", "three-way", "mm-crc32"]
+keywords = ["CRC-32C", "SIMD", "fusion", "pclmulqdq", "three-way"]
 categories = ["algorithms", "development-tools", "mathematics"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
